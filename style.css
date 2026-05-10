@@ -35,6 +35,9 @@ p {
   font-size: 18px;
   line-height: 1.5;
 }
+.hero {
+  background-color: #e8ecf5;
+}
 
 .navigation-links {
   display: flex;
