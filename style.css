@@ -91,7 +91,7 @@ p {
   display: flex;
   justify-content: center;
   color: var(--primary-color);
-  font-size: 28px;
+  font-size: 14px;
   text-decoration: none;
 }
 
@@ -207,4 +207,22 @@ p {
 
 .image-wrapper img:hover {
   transform: scale(1.05);
+}
+.contact {
+  margin: 30px;
+}
+.contact h1 {
+  font-size: 64px;
+  line-height: 80px;
+}
+.contact h3 {
+  margin-top: 10px;
+  font-size: 24px;
+  line-height: 1.5;
+  font-weight: bold;
+  opacity: 1;
+}
+.contact p {
+  padding: 0;
+  margin-bottom: 10px;
 }
