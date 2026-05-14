@@ -47,6 +47,10 @@ footer {
   margin-top: 120px;
   margin-bottom: 60px;
 }
+footer p {
+  font-size: 14px;
+  font-weight: bold;
+}
 footer .email-footer {
   text-decoration: none;
   color: black;
